@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="144" viewBox="0 0 1920 144">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.185" cy="0.5" r="0.788" gradientTransform="matrix(0.691, -0.723, 0.662, 0.633, -0.274, 0.317)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.247" stop-color="#f8fef4"/>
+      <stop offset="1" stop-color="#b19b9f"/>
+    </radialGradient>
+  </defs>
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="144" fill="url(#radial-gradient)"/>
+  <text id="SD_Keputran_06_Pekalongan" data-name="SD Keputran 06 Pekalongan" transform="translate(71 83)" fill="#0e0d0d" stroke="#707070" stroke-width="1" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">SD Keputran 06 Pekalongan</tspan></text>
+</svg>
